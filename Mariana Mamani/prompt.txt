@@ -1,0 +1,1 @@
+Generar un código para mi repositorio de GitHub, que imprima números primos del 1 al 100.
